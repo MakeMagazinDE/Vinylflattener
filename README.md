@@ -8,7 +8,7 @@ Maker Media GmbH
 
 ### Bauanleitung für eine Bügelmaschine für Schallplatten
 
-Schallplatten sind manchmal durch falsche Lagerung oder mangelhafte Herstellung krumm geworden. Mit Wärme und Druck kann die Platte gerettet werden und unbetrübten Musikgenuss liefern. Kommerzielle Maschinen sind sehr teuer. In dem Artikel in Make 7/25 zeigen wir, wie man für wenige hundert Euro eine funktionale Bügelmaschine selber bauen kann, und zudem mit eine sehr präzise Temperatursteuerung. Hier findet ihr 3D-Druck-Dateien für Diverse Teile und den Code für den ESP32.
+Manchmal sind Schallplatten durch falsche Lagerung oder mangelhafte Herstellung krumm geworden. Mit Wärme und Druck lässt sich die Platte retten und sie liefert wieder ungetrübten Musikgenuss. Kommerzielle Maschinen sind jedoch sehr teuer. In der Make 7/25 zeigen wir, wie man für wenige hundert Euro eine funktionale Bügelmaschine mit sehr präziser Temperatursteuerung selber bauen kann. Hier findet ihr 3D-Druck-Dateien für diverse Teile, den Code für den ESP32 und Gerber-Dateien für eine kleine Steuerplatine.
 
 ![Picture](https://github.com/MakeMagazinDE/Vinylflattener/blob/master/00%20-%20Aufmacher%203.jpg) 
 
