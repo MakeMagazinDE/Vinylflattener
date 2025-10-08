@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Der Vinylflattener
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Bauanleitung für eine Bügelmaschine für Schallplatten.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Schallplatten sind manchmal durch falsche Lagerung oder mangelhafte Herstellung krumm geworden. Mit Wärme und Druck kann die Platte gerettet werden und unbetrübten Musikgenuss liefern. Kommerzielle Maschinen sind sehr teuer. In dem Artikel in Make 7/25 zeigen wir, wie man für wenige hundert Euro eine funktionale Bügelmaschine selber bauen kann, und zudem mit eine sehr präzise Temperatursteuerung. Hier findet ihr 3D-Druck-Dateien für Diverse Teile und den Code für den ESP32.
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 7/25.
